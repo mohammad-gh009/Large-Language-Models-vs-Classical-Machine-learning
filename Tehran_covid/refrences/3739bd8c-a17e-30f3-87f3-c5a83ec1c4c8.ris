@@ -1,0 +1,22 @@
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - A Method of Estimation of Missing Values in Multivariate Data Suitable for use with an Electronic Computer
+AU  - Buck, S. F.
+AB  - [Estimation of statistical parameters from multivariate data results in wasted information, if units with incomplete data are rejected entirely, and perhaps in inconsistencies in the variance-covariance matrix if the variances and correlation coefficients are estimated from all available data on individual variates and pairs of variates respectively. An alternative is to estimate the missing values by regression techniques and to calculate a revised variance-covariance matrix. This method is suitable for use with an electronic computer. It is shown that with this method the resultant covariances are unbiased, but that the variances require correction for bias. A numerical example is given.]
+C1  - Full publication date: 1960
+DB  - JSTOR
+EP  - 306
+IS  - 2
+PB  - [Royal Statistical Society, Wiley]
+PY  - 1960
+SN  - 00359246
+SP  - 302
+T2  - Journal of the Royal Statistical Society. Series B (Methodological)
+UR  - http://www.jstor.org/stable/2984099
+VL  - 22
+Y2  - 2024/02/28/
+ER  - 

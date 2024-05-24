@@ -1,0 +1,53 @@
+PMID- 19095540
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20090521
+LR  - 20220317
+IS  - 1941-0492 (Electronic)
+IS  - 1083-4419 (Linking)
+VI  - 39
+IP  - 2
+DP  - 2009 Apr
+TI  - Exploratory undersampling for class-imbalance learning.
+PG  - 539-50
+LID - 10.1109/TSMCB.2008.2007853 [doi]
+AB  - Undersampling is a popular method in dealing with class-imbalance problems, which 
+      uses only a subset of the majority class and thus is very efficient. The main 
+      deficiency is that many majority class examples are ignored. We propose two 
+      algorithms to overcome this deficiency. EasyEnsemble samples several subsets from 
+      the majority class, trains a learner using each of them, and combines the outputs 
+      of those learners. BalanceCascade trains the learners sequentially, where in each 
+      step, the majority class examples that are correctly classified by the current 
+      trained learners are removed from further consideration. Experimental results 
+      show that both methods have higher Area Under the ROC Curve, F-measure, and 
+      G-mean values than many existing class-imbalance learning methods. Moreover, they 
+      have approximately the same training time as that of undersampling when the same 
+      number of weak classifiers is used, which is significantly faster than other 
+      methods.
+FAU - Liu, Xu-Ying
+AU  - Liu XY
+AD  - National Key Laboratory for Novel Software Technology, Nanjing University, 
+      Nanjing, China. liuxy@lamda.nju.edu.cn
+FAU - Wu, Jianxin
+AU  - Wu J
+FAU - Zhou, Zhi-Hua
+AU  - Zhou ZH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20081216
+PL  - United States
+TA  - IEEE Trans Syst Man Cybern B Cybern
+JT  - IEEE transactions on systems, man, and cybernetics. Part B, Cybernetics : a 
+      publication of the IEEE Systems, Man, and Cybernetics Society
+JID - 9890044
+EDAT- 2008/12/20 09:00
+MHDA- 2008/12/20 09:01
+CRDT- 2008/12/20 09:00
+PHST- 2008/12/20 09:00 [entrez]
+PHST- 2008/12/20 09:00 [pubmed]
+PHST- 2008/12/20 09:01 [medline]
+AID - 10.1109/TSMCB.2008.2007853 [doi]
+PST - ppublish
+SO  - IEEE Trans Syst Man Cybern B Cybern. 2009 Apr;39(2):539-50. doi: 
+      10.1109/TSMCB.2008.2007853. Epub 2008 Dec 16.

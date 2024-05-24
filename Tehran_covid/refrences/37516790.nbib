@@ -1,0 +1,98 @@
+PMID- 37516790
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230801
+IS  - 2398-6352 (Electronic)
+IS  - 2398-6352 (Linking)
+VI  - 6
+IP  - 1
+DP  - 2023 Jul 29
+TI  - The shaky foundations of large language models and foundation models for 
+      electronic health records.
+PG  - 135
+LID - 10.1038/s41746-023-00879-8 [doi]
+LID - 135
+AB  - The success of foundation models such as ChatGPT and AlphaFold has spurred 
+      significant interest in building similar models for electronic medical records 
+      (EMRs) to improve patient care and hospital operations. However, recent hype has 
+      obscured critical gaps in our understanding of these models' capabilities. In 
+      this narrative review, we examine 84 foundation models trained on non-imaging EMR 
+      data (i.e., clinical text and/or structured data) and create a taxonomy 
+      delineating their architectures, training data, and potential use cases. We find 
+      that most models are trained on small, narrowly-scoped clinical datasets (e.g., 
+      MIMIC-III) or broad, public biomedical corpora (e.g., PubMed) and are evaluated 
+      on tasks that do not provide meaningful insights on their usefulness to health 
+      systems. Considering these findings, we propose an improved evaluation framework 
+      for measuring the benefits of clinical foundation models that is more closely 
+      grounded to metrics that matter in healthcare.
+CI  - © 2023. The Author(s).
+FAU - Wornow, Michael
+AU  - Wornow M
+AUID- ORCID: 0000-0003-2215-6527
+AD  - Department of Computer Science, Stanford University, Stanford, CA, USA. 
+      mwornow@stanford.edu.
+FAU - Xu, Yizhe
+AU  - Xu Y
+AD  - Center for Biomedical Informatics Research, Stanford University School of 
+      Medicine, Stanford, CA, USA.
+FAU - Thapa, Rahul
+AU  - Thapa R
+AD  - Center for Biomedical Informatics Research, Stanford University School of 
+      Medicine, Stanford, CA, USA.
+FAU - Patel, Birju
+AU  - Patel B
+AUID- ORCID: 0000-0001-7673-6143
+AD  - Center for Biomedical Informatics Research, Stanford University School of 
+      Medicine, Stanford, CA, USA.
+FAU - Steinberg, Ethan
+AU  - Steinberg E
+AUID- ORCID: 0000-0001-7166-5032
+AD  - Department of Computer Science, Stanford University, Stanford, CA, USA.
+FAU - Fleming, Scott
+AU  - Fleming S
+AUID- ORCID: 0000-0002-6047-7877
+AD  - Center for Biomedical Informatics Research, Stanford University School of 
+      Medicine, Stanford, CA, USA.
+FAU - Pfeffer, Michael A
+AU  - Pfeffer MA
+AD  - Center for Biomedical Informatics Research, Stanford University School of 
+      Medicine, Stanford, CA, USA.
+AD  - Technology and Digital Services, Stanford Health Care, Palo Alto, CA, USA.
+FAU - Fries, Jason
+AU  - Fries J
+AD  - Center for Biomedical Informatics Research, Stanford University School of 
+      Medicine, Stanford, CA, USA.
+FAU - Shah, Nigam H
+AU  - Shah NH
+AUID- ORCID: 0000-0001-9385-7158
+AD  - Center for Biomedical Informatics Research, Stanford University School of 
+      Medicine, Stanford, CA, USA.
+AD  - Technology and Digital Services, Stanford Health Care, Palo Alto, CA, USA.
+AD  - Department of Medicine, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+AD  - Clinical Excellence Research Center, Stanford University School of Medicine, 
+      Stanford, CA, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230729
+PL  - England
+TA  - NPJ Digit Med
+JT  - NPJ digital medicine
+JID - 101731738
+PMC - PMC10387101
+COIS- B.P. reports stock-based compensation from Google, LLC. Otherwise, the authors 
+      declare that there are no competing interests.
+EDAT- 2023/07/30 01:06
+MHDA- 2023/07/30 01:07
+CRDT- 2023/07/29 23:20
+PHST- 2023/03/21 00:00 [received]
+PHST- 2023/07/13 00:00 [accepted]
+PHST- 2023/07/30 01:07 [medline]
+PHST- 2023/07/30 01:06 [pubmed]
+PHST- 2023/07/29 23:20 [entrez]
+AID - 10.1038/s41746-023-00879-8 [pii]
+AID - 879 [pii]
+AID - 10.1038/s41746-023-00879-8 [doi]
+PST - epublish
+SO  - NPJ Digit Med. 2023 Jul 29;6(1):135. doi: 10.1038/s41746-023-00879-8.

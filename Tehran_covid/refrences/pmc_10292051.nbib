@@ -1,0 +1,68 @@
+PMID- 37378099
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230701
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 15
+IP  - 5
+DP  - 2023 May
+TI  - Embracing Large Language Models for Medical Applications: Opportunities and 
+      Challenges.
+PG  - e39305
+LID - 10.7759/cureus.39305 [doi]
+LID - e39305
+AB  - Large language models (LLMs) have the potential to revolutionize the field of 
+      medicine by, among other applications, improving diagnostic accuracy and 
+      supporting clinical decision-making. However, the successful integration of LLMs 
+      in medicine requires addressing challenges and considerations specific to the 
+      medical domain. This viewpoint article provides a comprehensive overview of key 
+      aspects for the successful implementation of LLMs in medicine, including transfer 
+      learning, domain-specific fine-tuning, domain adaptation, reinforcement learning 
+      with expert input, dynamic training, interdisciplinary collaboration, education 
+      and training, evaluation metrics, clinical validation, ethical considerations, 
+      data privacy, and regulatory frameworks. By adopting a multifaceted approach and 
+      fostering interdisciplinary collaboration, LLMs can be developed, validated, and 
+      integrated into medical practice responsibly, effectively, and ethically, 
+      addressing the needs of various medical disciplines and diverse patient 
+      populations. Ultimately, this approach will ensure that LLMs enhance patient care 
+      and improve overall health outcomes for all.
+CI  - Copyright © 2023, Karabacak et al.
+FAU - Karabacak, Mert
+AU  - Karabacak M
+AD  - Neurological Surgery, Mount Sinai Health System, New York, USA.
+FAU - Margetis, Konstantinos
+AU  - Margetis K
+AD  - Neurological Surgery, Mount Sinai Health System, New York, USA.
+LA  - eng
+PT  - Editorial
+DEP - 20230521
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC10292051
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - chatgpt
+OT  - data privacy
+OT  - domain adaptation
+OT  - ethical considerations
+OT  - generative ai
+OT  - large language models
+OT  - multimodal learning
+OT  - reinforcement learning
+OT  - transfer learning
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2023/06/28 13:08
+MHDA- 2023/06/28 13:09
+CRDT- 2023/06/28 09:28
+PHST- 2023/05/21 00:00 [accepted]
+PHST- 2023/06/28 13:09 [medline]
+PHST- 2023/06/28 13:08 [pubmed]
+PHST- 2023/06/28 09:28 [entrez]
+AID - 10.7759/cureus.39305 [doi]
+PST - epublish
+SO  - Cureus. 2023 May 21;15(5):e39305. doi: 10.7759/cureus.39305. eCollection 2023 
+      May.
